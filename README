@@ -1,10 +1,11 @@
 Hackerspace Design Patterns
 ---------------------------
 
-Präsentation über den Aufbau und Betrieb eines Hackerspaces; und die Probleme,
+Druckvorlage für ein Büchlein über den Aufbau und Betrieb von ingeniösen Orten und die Probleme,
 die dabei auftreten werden.
 
-Nach einer Vorlage von Lars Weiler und Jens Ohlig
+Nach einer Vorlage von Nomaster https://github.com/nomaster/hackspace-design-patterns
+basieren auf dem Vortrag von Lars Weiler und Jens Ohlig
 https://github.com/larsweiler/Hackerspace-Design-Patterns
 
 Übersetzt und mit neuen Bildern mehrerer bestehender Projekte angereichert.
@@ -12,8 +13,9 @@ https://github.com/larsweiler/Hackerspace-Design-Patterns
 Die Tex-Datei benötigt Beamer (vermutlich bereits in deiner Tex-Installation
 enthalten) und ist optimiert für Projektionen im Seitenverhältnis 16:10.
 
-Eine fertige PDF-Datei zum Anschauen und Vorführen findest du hier:
-https://github.com/downloads/nomaster/Hackerspace-Design-Patterns/hackerspace-design-patterns.pdf
+// Version von Nomaster:
+// Eine fertige PDF-Datei zum Anschauen und Vorführen findest du hier:
+// https://github.com/downloads/nomaster/Hackerspace-Design-Patterns/hackerspace-design-patterns.pdf
 
 Diese Präsentation basiert auf Werken, die unter einer Copyleft-Lizenz verfügbar
 gemacht wurden und kann gerne weiterverwendet werden, unter folgender Lizenz:
